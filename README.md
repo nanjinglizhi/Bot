@@ -2,19 +2,15 @@
 
 南京李志Bot `v0.1.0` （WIP)
 
-#### 鸽子事情有点多，请耐心等待更新，或帮忙整理歌词库
+#### 请耐心等待更（鸽）新，或帮忙整理歌词库
 
-`
-别管我，我只是一个偶像派歌手
-——李志
-`
 
-[一起下葬](https://df7c5117.github.io/NanjingLizhiBot/)
+[文字版](https://nanjinglizhi.github.io/Bot/)
 
 
 - 激动人心的更新！
 
-	GUI版李志bot上线，请访问[南京李志Bot Plus](https://df7c5117.github.io/NanjingLizhiBot/PLUS/)
+	GUI版李志bot上线，请访问[南京李志Bot Plus](https://nanjinglizhi.github.io/Bot/PLUS/)
 
 	还可以导出李志装逼语录卡片，情况属实。
 
@@ -26,6 +22,7 @@
 - 由于设计限制，一首歌的链接只对应一个版本（一般是专辑原版而非各现场版）【由于已下架，链接功能暂时被取消】
 - 可能接下来将会上线李逼随机拼贴诗API。（WIP)
 - 情况属实。
+- 没有哪一首歌，能把这个现实，唱到地狱去。
 
 ### license
 
